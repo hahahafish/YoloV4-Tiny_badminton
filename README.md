@@ -12,4 +12,4 @@ yolov4-tiny-obj_last.weights 為訓練完成權重檔
 test01.jpg 為測試用影像
 
 訓練時間約1.5小時，視頻分配到的GPU類型及網路速度。
-# 詳細測試過程請參考![YOLOV4-Tiny對自訂義訓練集進行訓練](https://colab.research.google.com/drive/1F2INOW8LR1a19CRNkeavrG5xRqfUfDbP?usp=sharing)
+# 詳細測試過程請參考[YOLOV4-Tiny對自訂義訓練集進行訓練](https://colab.research.google.com/drive/1F2INOW8LR1a19CRNkeavrG5xRqfUfDbP?usp=sharing)
